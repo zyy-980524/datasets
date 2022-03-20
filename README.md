@@ -1,2 +1,2 @@
 # datasets
-Draw the images of the lateral acceleration, the yaw rate, the teering angle and the vehicle speed.
+Draw the images of the lateral acceleration, the yaw rate, the steering angle and the vehicle speed.
